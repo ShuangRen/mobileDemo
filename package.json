@@ -1,0 +1,15 @@
+{
+  "name": "mobile",
+  "version": "0.1.0",
+  "description": "grunt 1",
+  "author": "YinHuang",
+  "license": "BSD",
+  "devDependencies": {
+        "grunt": "~0.4.5",
+        "grunt-contrib-less": "*",
+        "grunt-contrib-cssmin" : "*",
+        "grunt-autoprefixer": "*",
+        "grunt-contrib-watch" : "*",
+        "grunt-contrib-uglify" : "*"
+    }	
+}
